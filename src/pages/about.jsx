@@ -1,8 +1,8 @@
 function About(){
   return (
-    <div>
-      <h2>About pages</h2>
-    </div>
+    <>
+        <p>About Pages</p>
+    </>
   );
 }
 export default About;

@@ -1,8 +1,8 @@
 function Home(){
   return (
-    <div>
-      <h2>Home pages</h2>
-    </div>
+    <>
+      <p>Homes Pages</p>
+    </>
   );
 }
 export default Home;
